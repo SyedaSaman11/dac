@@ -1,0 +1,23 @@
+{
+  "name": "dac",
+  "version": "1.0.0",
+  "description": "dsf",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedaSaman11/dac.git"
+  },
+  "author": "dfs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedaSaman11/dac/issues"
+  },
+  "homepage": "https://github.com/SyedaSaman11/dac#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
